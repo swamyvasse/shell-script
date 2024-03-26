@@ -1,4 +1,4 @@
-# shell-script
-this is learning part of devops
-where are you brother
-this is third line of code
+#this is various practice file
+this is demo file
+
+this is various file data
